@@ -34,7 +34,7 @@ We ask that you keep us up to date with the developments on the discussion threa
 
 ## Process
 
-Head over to the discussions tab and start a thread. Please use the following template when submitting a proposal:
+Head over to [the Project Ideas discussions](https://github.com/electrolama/community-projects/discussions/categories/project-ideas) and start a thread. Please use the following template when submitting a proposal:
 
   - **Project Title:** ...
   - **Brief:** ...
@@ -63,4 +63,4 @@ Here’s an example proposal:
 
 ## This is an experiment
 
-We’re keen to see how this plays out, if you have any thoughts/comments please feel free to discuss here.
+We’re keen to see how this plays out, if you have any thoughts/comments please feel free to [discuss here](https://github.com/electrolama/community-projects/discussions/1).
